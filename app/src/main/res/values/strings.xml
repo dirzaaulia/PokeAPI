@@ -1,0 +1,18 @@
+<resources>
+  <string name="app_name">Poke API</string>
+  <string name="image_url_format">https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/%s.png</string>
+  <string name="retry">Retry</string>
+  <string name="height">Height</string>
+  <string name="weight">Weight</string>
+  <string name="base_experiences">Base Experiences</string>
+  <string name="types">Types</string>
+  <string name="pokemon_height_format">%d dm</string>
+  <string name="pokemon_weight_format">%d hg</string>
+  <string name="abilities">Abilities</string>
+  <string name="stats">Stats</string>
+  <string name="pokemon_stats_format">"%s | Stat: %d | Effort : %d"</string>
+  <string name="moves">Moves</string>
+  <!-- TODO: Remove or change this placeholder text -->
+  <string name="hello_blank_fragment">Hello blank fragment</string>
+  <string name="favorite">Favorite</string>
+</resources>
